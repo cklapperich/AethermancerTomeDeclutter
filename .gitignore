@@ -4,6 +4,7 @@ obj/
 *.dll
 *.exe
 *.pdb
+*.zip
 
 # Library dependencies (copied from game)
 lib/
