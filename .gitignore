@@ -1,0 +1,30 @@
+# Build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Library dependencies (copied from game)
+lib/
+
+# Decompiled reference files
+references/
+
+# IDE files
+.vs/
+.idea/
+*.user
+*.suo
+*.csproj.user
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
